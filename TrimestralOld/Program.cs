@@ -2,6 +2,12 @@
 using System.Text;
 using System;
 
+/*
+ * Integrantes do grupo:
+ * Erick Pedrosa Barreto
+ * Gabrielle Maia de Andrade Souza
+*/
+
 namespace Trimestral
 {
     public class Program
